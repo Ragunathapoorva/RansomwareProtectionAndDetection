@@ -42,22 +42,22 @@ Development Tools
 
 Repository Structure
 
-RansomwareProtectionAndDetection/
-├── detection/
-│ ├── detectors.py
-│ ├── analysis.py
-│ └── utils.py
-├── protection/
-│ ├── monitor.sh
-│ └── response.sh
-├── logs/
-│ └── activity.log
-├── docs/
-│ └── architecture.md
-├── tests/
-│ └── test_detection.py
-├── requirements.txt
-└── README.md
+          RansomwareProtectionAndDetection/
+          ├── detection/
+          │ ├── detectors.py
+          │ ├── analysis.py
+          │ └── utils.py
+          ├── protection/
+          │ ├── monitor.sh
+          │ └── response.sh
+          ├── logs/
+          │ └── activity.log
+          ├── docs/
+          │ └── architecture.md
+          ├── tests/
+          │ └── test_detection.py
+          ├── requirements.txt
+          └── README.md
 
 markdown
 Copy code
